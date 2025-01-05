@@ -19,7 +19,7 @@
   color: white;
 }
 
-@media (max-width: 376px) {
+@media (max-width: 276px) {
   .hero-title {
     font-size: 1.8rem; /* Atur ukuran font untuk judul */
     line-height: 1.2; /* Tambahkan jarak antar baris */
