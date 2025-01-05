@@ -19,14 +19,26 @@
   color: white;
 }
 
-#typing-text {
-  font-size: 1.8rem;
-  white-space: nowrap;
-  overflow: hidden;
-  display: inline-block;
-  border-right: 2px solid #fff;
-  box-sizing: border-box;
-  font-weight: 400;
+@media (max-width: 376px) {
+  .hero-title {
+    font-size: 1.8rem; /* Atur ukuran font untuk judul */
+    line-height: 1.2; /* Tambahkan jarak antar baris */
+  }
+
+  #typing-text {
+    font-size: 1.8rem;
+    white-space: nowrap;
+    overflow: hidden;
+    display: inline-block;
+    border-right: 2px solid #fff;
+    box-sizing: border-box;
+    font-weight: 400;
+    line-height: 1.2; /* Tambahkan jarak antar baris */
+    word-wrap: break-word; /* Pastikan teks tidak melebihi batas */
+  }
+  .typing-text {
+    font-size: 1rem; /* Atur ukuran font untuk teks deskripsi */
+  }
 }
 
 @keyframes typing {
