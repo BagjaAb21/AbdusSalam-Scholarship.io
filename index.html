@@ -1,225 +1,219 @@
 <!DOCTYPE html>
-<html lang="id">
+<html lang="en">
 
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Beasiswa Abdus Salam 2025</title>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css" rel="stylesheet">
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet">
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
   <!-- Navbar -->
-  <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light" style="font-size: 1.25rem;">
     <div class="container">
+      <a class="navbar-brand d-flex align-items-center" href="#">
+        <img src="pictures/icons8-instagram-logo-48.png" alt="Logo"
+          style="width: 40px; height: 40px; margin-right: 10px;">
+        <span style="font-weight: 500;">Beasiswa Abdus Salam</span>
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
       <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav">
-          <li class="nav-item">
-            <a class="nav-link fs-5 mx-3 text-item" href="#home">Home</a>
+        <ul class="navbar-nav ms-auto" style="margin: 2rem; font-size: 1.25rem; font-weight: 500;">
+          <li class="nav-item" style="margin: 1rem 1rem 0rem 1rem;"><a class="nav-link" style="font-size: 15px;"
+              href="#">Home</a></li>
+          <li class="nav-item dropdown" style="margin: 1rem 1rem 0rem 1rem;">
+            <a class="nav-link dropdown-toggle" style="font-size: 15px;" href="#" id="navbarDropdown" role="button"
+              data-bs-toggle="dropdown" aria-expanded="false">
+              Program
+            </a>
+            <ul class="dropdown-menu fade" aria-labelledby="navbarDropdown">
+              <li><a class="dropdown-item" style="font-size: 14px;" href="#">Program 1</a></li>
+              <li><a class="dropdown-item" style="font-size: 14px;" href="#">Program 2</a></li>
+              <li><a class="dropdown-item" style="font-size: 14px;" href="#">Program 3</a></li>
+            </ul>
           </li>
-          <li class="nav-item">
-            <a class="nav-link fs-5 mx-3 text-item" href="#program">Program</a>
+          <li class="nav-item" style="margin: 1rem 1rem 0rem 1rem;"><a class="nav-link" style="font-size: 15px;"
+              href="#info">Info Beasiswa</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link fs-5 mx-3 text-item" href="#contact">Contact</a>
+          <li class="nav-item" style="margin: 1rem 1rem 0rem 1rem;"><a class="nav-link" style="font-size: 15px;"
+              href="#contact">Contact Us</a>
           </li>
         </ul>
       </div>
-      <div class="navbar-brand fs-6 d-flex align-items-center">
-        <img src="icons8-instagram-logo-35.png" class="rounded-circle me-2" alt="Instagram Icon"
-          style="background-color: #B71C1C;">
-        <div>
-          <div class="text-dark">Follow Us</div>
-          <div class="text-muted" style="font-size: 0.9em;">@beasiswa.abdussalam</div>
-        </div>
-      </div>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-        <span class="navbar-toggler-icon"></span>
-      </button>
     </div>
   </nav>
 
   <!-- Hero Section -->
-  <section class="hero-section" id="beranda">
-    <div id="heroCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
-      <div class="carousel-inner">
-        <div class="carousel-item active" style="background-image: url('scholarship.webp');">
+  <section class="hero-section text-white text-center d-flex align-items-center justify-content-center mb-5"
+    style="height: 70vh; position: relative;">
+    <div id="heroCarousel" class="carousel slide w-100 h-100" data-bs-ride="carousel">
+      <div class="carousel-inner h-100">
+        <div class="carousel-item active h-100"
+          style="background: url('pictures/hero-1.png') no-repeat center center/cover;">
+          <div
+            class="container position-relative z-1 h-100 d-flex flex-column justify-content-center align-items-center">
+            <h1 class="display-4 fw-bold" style="font-size: 35px;">Beasiswa Abdus Salam 2025</h1>
+            <p class="lead" style="font-size: 18px;">Wujudkan Impianmu, Raih Masa Depan Gemilang!</p>
+            <a href="#" class="btn btn-danger btn-lg">Pelajari Lebih Lanjut</a>
+          </div>
+          <div class="overlay position-absolute top-0 start-0 w-100 h-100"
+            style="background-color: rgba(0, 0, 0, 0.5);"></div>
         </div>
-        <div class="carousel-item" style="background-image: url('scholarship2.webp');">
-        </div>
-        <div class="carousel-item" style="background-image: url('hero3.jpg');">
+        <div class="carousel-item h-100" style="background: url('pictures/hero-2.png') no-repeat center center/cover;">
+          <div
+            class="container position-relative z-1 h-100 d-flex flex-column justify-content-center align-items-center">
+            <h1 class="display-4 fw-bold" style="font-size: 35px;">Beasiswa Abdus Salam 2025</h1>
+            <p class="lead" style="font-size: 18px;">Kesempatan Emas untuk Masa Depan</p>
+            <a href="#" class="btn btn-danger btn-lg">Pelajari Lebih Lanjut</a>
+          </div>
+          <div class="overlay position-absolute top-0 start-0 w-100 h-100"
+            style="background-color: rgba(0, 0, 0, 0.5);"></div>
         </div>
       </div>
-    </div>
-    <div class="container d-flex align-items-center" style="min-height: 80vh;">
-      <div class="hero-content" data-aos="fade-up">
-        <h1 class="hero-title">Beasiswa Abdus Salam 2025</h1>
-        <div class="content-wrapper">
-          <p class="lead mb-4" id="typing-text" style="font-size: 1.5rem;">Wujudkan Impianmu, <br> Raih Masa Depan
-            Gemilang!</p>
-        </div>
-      </div>
-    </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#heroCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#heroCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
     </div>
   </section>
 
-  <!-- Info Section -->
-  <section class="py-5" id="program">
+  <!-- Informasi Section -->
+  <section class="py-5">
     <div class="container">
-      <h2 class="text-center mb-5" data-aos="fade-up">Pusat Informasi</h2>
-      <h3 class="text-center mb-4" data-aos="fade-up">Beasiswa Abdus Salam 2025</h3>
-
-      <div class="row g-4">
-        <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
-          <div class="info-card card">
-            <div class="card-body">
-              <h4 class="card-title">Program Reguler</h4>
-              <p class="card-text">Program beasiswa jenjang sarjana (S1) untuk anggota Ahmadi dari badan Khuddam, dengan
-                pendanaan biaya kuliah, tunjangan buku, penelitian skripsi, dan biaya hidup dengan durasi maksimal 48
-                bulan.</p>
-              <a href="#" class="btn btn-outline">Learn More →</a>
-            </div>
+      <h2 class="text-center mb-5">Pusat Informasi Beasiswa Abdus Salam 2025</h2>
+      <div class="row">
+        <div class="col-md-4 tex-tentang-home">
+          <div class="info-card p-4 text-center">
+            <h5>Program Reguler</h5>
+            <p style="text-align: start; font-size: 14px;">Program beasiswa jenjang sarjana (S1) untuk anggota Ahmadi
+              dari badan Khuddam,
+              dengan pendanaan biaya
+              kuliah, tunjangan buku, penelitian skripsi, dan biaya hidup selama maksimal 48 bulan.</p>
+            <a class="btn btn-danger btn-lg" style="color: white;" href="#">Selengkapnya</a>
           </div>
         </div>
-
-        <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
-          <div class="info-card card">
-            <div class="card-body">
-              <h4 class="card-title">Program Bimbingan Belajar</h4>
-              <p class="card-text">Program beasiswa untuk mendukung siswa SD, SMP, dan SMA guna mendukung bimbingan
-                belajar berkualitas, meningkatkan prestasi belajar dengan durasi satu semester.</p>
-              <a href="#" class="btn btn-outline">Learn More →</a>
-            </div>
+        <div class="col-md-4">
+          <div class="info-card p-4 text-center">
+            <h5>Program Bimbingan Belajar</h5>
+            <p style="text-align: start; font-size: 14px;">Program beasiswa untuk mendukung siswa SD, SMP, dan SMA dalam
+              mengikuti
+              bimbingan belajar berkualitas,
+              mencakup pendanaan biaya kursus dan buku penunjang selama satu semester.</p>
+            <a class="btn btn-danger btn-lg" href="#" style="color: white;">Selengkapnya</a>
           </div>
         </div>
-
-        <div class="col-md-4" data-aos="fade-up" data-aos-delay="300">
-          <div class="info-card card">
-            <div class="card-body">
-              <h4 class="card-title">Tentang Beasiswa</h4>
-              <p class="card-text">Beasiswa yang mendukung pendidikan anggota Ahmadi melalui dua program: reguler untuk
-                jenjang S1 dan bimbingan belajar untuk siswa SD, SMP, dan SMA, guna meningkatkan prestasi akademik.</p>
-              <a href="#" class="btn btn-outline">Learn More →</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- About Section -->
-  <section class="about-section" id="about">
-    <div class="container">
-      <h2 class="text-center mb-5" data-aos="fade-up">Tentang Tokoh</h2>
-      <div class="row align-items-center">
-        <div class="col-lg-6" data-aos="fade-right">
-          <div class="bgg text-white p-4 rounded" style="text-align: justify; font-size: larger;">
-            <h3>Prof. Abdus Salam</h3>
-            <p>Muhammad Abdus Salam (29 Januari 1926 – 21 November 1996) ialah seorang tokoh Pakistan pertama yang
-              menerima Penghargaan Nobel Fisika pada 1979 bersama dengan Sheldon Glashow dan Steven Weinberg.
-            <p>Abdus Salam dilahirkan di Jhang, sebuah kota kecil di Pakistan, pada tahun 1926. Ayahnya ialah pegawai
-              dalam Dinas Pendidikan dalam daerah pertanian. Keluarga Abdus Salam mempunyai tradisi pembelajaran dan
-              alim.</p>
-            <p>Salam adalah penasihat ilmu pengetahuan untuk Kementerian Sains dan Teknologi di Pakistan dari tahun 1960
-              hingga 1974, posisi di mana ia memainkan peran utama dan berpengaruh dalam pengembangan infrastruktur
-              sains negara itu. Salam berkontribusi pada perkembangan fisika teoretis dan partikel. Sebagai Penasihat
-              Sains, Salam berperan dalam pengembangan dalam penggunaan energi nuklir secara damai, dan telah
-              berkontribusi juga bagi pengembangan proyek bom atom Pakistan pada tahun 1972; untuk ini, ia dipandang
-              sebagai "bapak ilmiah" dari program ini.</p>
-            <p>Pada 1974 Abdus Salam meninggalkan negaranya, sebagai protes, setelah Parlemen Pakistan dengan suara
-              bulat
-              mengesahkan undang-undang parlemen yang menyatakan gerakan Ahmadiyah sebagai golongan minoritas, dimana
-              Salam adalah sebagai anggota gerakan tersebut.</p>
-            <p>Pada 1998, setelah tes nuklir yang dilakukan negara tersebut, Pemerintah Pakistan mengeluarkan cap
-              peringatan, sebagai bagian dari "Ilmuwan Pakistan", untuk menghormati jasa Salam.</p>
+        <div class="col-md-4">
+          <div class="info-card p-4 text-center">
+            <h5>Tentang Beasiswa</h5>
+            <p style="text-align: start; font-size: 14px;">Beasiswa yang mendukung pendidikan anggota Ahmadi melalui
+              skema Reguler untuk
+              jenjang sarjana (S1) dan
+              Bimbingan Belajar untuk siswa SD, SMP, dan SMA, guna meningkatkan prestasi akademik dan pengembangan diri.
             </p>
-            <p>Sebagai seorang Ahmadi, Prof. Salam dikenal karena dedikasinya terhadap ilmu pengetahuan dan keimanannya.
+            <a class="btn btn-danger btn-lg" href="#" style="color: white;">Selengkapnya</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Tentang Tokoh Section -->
+  <section class="py-5 bg-light">
+    <div class="container">
+      <h2 class="text-center mb-5">Tentang Tokoh</h2>
+      <div class="row align-items-center">
+        <div class="col-md-7">
+          <div class="tokoh-info p-4">
+            <h3>Prof. Abdus Salam</h3>
+            <p style="font-size: 16px; margin-bottom: 10px; text-align: justify;">
+              Prof. Abdus Salam (1926–1996) adalah seorang fisikawan teoretis asal Pakistan yang menjadi tokoh Muslim
+              pertama meraih Hadiah Nobel dalam Fisika pada tahun 1979 atas kontribusinya dalam teori penyatuan
+              lemah-elektromagnetik.
+            </p>
+            <p style="font-size: 16px; margin-bottom: 10px; text-align: justify;">
+              Sebagai seorang Ahmadi, Prof. Salam dikenal karena dedikasinya terhadap ilmu pengetahuan dan keimanannya.
               Ia memperjuangkan pentingnya pendidikan, penelitian ilmiah, dan penggunaan ilmu untuk membawa manfaat bagi
               umat manusia.</p>
+            <p style="font-size: 16px; margin-bottom: 10px; text-align: justify;">
+              Prof. Salam adalah simbol perjuangan untuk pendidikan, pengetahuan, dan keadilan ilmiah, meninggalkan
+              warisan luar biasa sebagai pelopor integrasi sains dalam kemajuan umat manusia.</p>
+            <p style="font-size: 16px; margin-bottom: 10px; text-align: justify;">
+              Selain prestasinya dalam penelitian, Prof. Salam juga dikenal sebagai pendukung kuat pengembangan sains di
+              negara-negara berkembang. Pada tahun 1964, ia mendirikan International Centre for Theoretical Physics
+              (ICTP) di Trieste, Italia, dengan tujuan memfasilitasi kolaborasi ilmiah antara ilmuwan dari negara maju
+              dan berkembang. Dedikasinya terhadap pendidikan dan penelitian ilmiah menjadikannya simbol perjuangan
+              untuk kemajuan sains di dunia Islam dan negara berkembang.</p>
+            <p style="font-size: 16px; margin-bottom: 10px; text-align: justify;">
+              Prof. Salam meninggal pada 21 November 1996 di Oxford, Inggris. Warisan ilmiahnya terus menginspirasi
+              generasi ilmuwan di seluruh dunia, dan kontribusinya dalam fisika teoretis tetap menjadi landasan penting
+              dalam pemahaman kita tentang alam semesta.</p>
+            <!-- <a href="#" class="btn btn-danger">Lebih Lanjut</a> -->
           </div>
         </div>
-        <div class="col-lg-6" data-aos="fade-left">
-          <img src="abdussalam2.webp" alt="Prof. Abdus Salam" class="img-fluid profile-image">
+        <div class="col-md-5 text-center">
+          <img src="pictures/Abdus_Salam.jpg" alt="Prof. Abdus Salam" class="img-fluid rounded"
+            style="max-width: 70%; height: auto;">
         </div>
       </div>
     </div>
   </section>
 
   <!-- Footer -->
-  <footer id="contact">
-    <div class="container">
+  <footer class="py-4">
+    <div class="container mt-5">
       <div class="row">
-        <div class="col-md-4 mb-4">
-          <h5>Quick Links</h5>
-          <ul class="list-unstyled">
+        <div class="col-md-5" style="font-size: 14px;">
+          <h5 style="margin: 1rem 1rem 1.5rem 1rem;">Beasiswa Abdus Salam 2025</h5>
+          <p style="text-align: justify; margin: 0rem 1rem 0rem 1rem; font-size: 14px;">Beasiswa Abdus Salam adalah
+            program beasiswa yang
+            mendukung pendidikan anggota
+            Ahmadi melalui skema
+            Reguler untuk jenjang sarjana (S1) dan Bimbingan Belajar untuk siswa SD, SMP, dan SMA, guna meningkatkan
+            prestasi akademik dan mempersiapkan generasi unggul.</p>
+        </div>
+        <div class="col-md-2" style="font-size: 14px;">
+          <h5 style="margin: 1rem 1rem 1.5rem 1rem;">Quick Links</h5>
+          <ul class="list-unstyled" style="margin: 0rem 1rem 0rem 1rem;">
             <li><a href="#" class="text-white">Beranda</a></li>
             <li><a href="#" class="text-white">Program</a></li>
             <li><a href="#" class="text-white">Hubungi Kami</a></li>
           </ul>
         </div>
-        <div class="col-md-4 mb-4">
-          <h5>Contact</h5>
-          <p>MKA Indonesia<br>
-            Abdus Salam Commite<br>
-            Jl. Raya Parung No. 27 Pondok Udik, Kec. Kemang, Kab. Bogor<br>
-            Prov. Jawa Barat</p>
+        <div class="col-md-2" style="font-size: 14px;">
+          <h5 style="margin: 1rem 1rem 1.5rem 1rem;">Pusat Informasi</h5>
+          <ul class="list-unstyled" style="margin: 0rem 1rem 0rem 1rem;">
+            <li><a href="#" class="text-white">Program Reguler</a></li>
+            <li><a href="#" class="text-white">Program Bimbingan Belajar</a></li>
+            <li><a href="#" class="text-white">Tentang Beasiswa</a></li>
+          </ul>
         </div>
-        <div class="col-md-4 mb-4">
-          <h5>Follow Us</h5>
-          <div class="social-links">
-            <a href="https://instagram.com/beasiswa.abdussalam" target="_blank"><i class="fab fa-instagram"></i></a>
-            <a href="#"><i class="fab fa-facebook"></i></a>
-            <a href="#"><i class="fab fa-twitter"></i></a>
-          </div>
+        <div class="col-md-3" style="font-size: 14px;">
+          <h5 style="margin: 1rem 1rem 1.5rem 1rem;">Contact</h5>
+          <p style="margin: 0rem 1rem 0rem 1rem;"><b>MKA Indonesia Abdus Salam Committe</b></p>
+          <p style="margin: 0rem 1rem 1.5rem 1rem;">Jl. Raya Parung No. 27 Pondok Udik, Kec. Kemang, Kab. Bogor Prov.
+            Jawa Barat</p>
+          <p style="margin: 0rem 1rem 0rem 1rem; color: white;"><b>Email:</b> <br> <a
+              href="mailto:addtalim@khuddam.id">addtalim@khuddam.id</a>
         </div>
       </div>
-      <hr class="mt-4">
-      <div class="text-center">
-        <p>&copy; 2025 MKA Indonesia. All rights reserved.</p>
-      </div>
+      <p class="text-center mt-5">Copyright &copy;<span id="currentYear"></span> MKA Indonesia</p>
     </div>
   </footer>
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="scripts.js"></script>
+  <!-- Set the current year dynamically -->
   <script>
-    AOS.init({
-      duration: 1000,
-      once: true
-    });
-  </script>
-  <script>
-    document.addEventListener("DOMContentLoaded", function () {
-      const textElement = document.getElementById("typing-text");
-      const text = textElement.textContent;
-      let index = 0;
-      let isAdding = true;
-
-      function typeEffect() {
-        if (isAdding) {
-          textElement.textContent = text.slice(0, index++);
-          if (index > text.length) {
-            isAdding = false;
-            setTimeout(typeEffect, 3000); // Jeda 3 detik setelah selesai mengetik
-            return;
-          }
-        } else {
-          textElement.textContent = text.slice(0, --index);
-          if (index === 0) {
-            isAdding = true;
-          }
-        }
-        setTimeout(typeEffect, isAdding ? 100 : 50); // Kecepatan mengetik/menghapus
-      }
-
-      typeEffect();
-    });
-  </script>
-
-
+    document.getElementById('currentYear').textContent = new Date().getFullYear();</script>
 </body>
 
 </html>

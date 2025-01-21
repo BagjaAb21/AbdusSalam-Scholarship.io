@@ -1,185 +1,128 @@
+/* General Styles */
 :root {
-  --primary-color: #b71c1c;
-  --secondary-color: #212121;
+  font-family: "Inter", sans-serif;
+}
+body {
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
+.dropdown-menu.fade {
+  opacity: 0;
+  transform: translateY(-10px);
+  transition: opacity 0.5s ease, transform 0.5s ease;
+  border: none;
+}
+
+.dropdown-menu.fade.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+h1,
+h2,
+h3,
+h5 {
+  font-weight: 700;
+}
+
+/* Navbar */
 .navbar {
-  background-color: rgba(255, 255, 255, 0.95);
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
 }
 
 .navbar-brand {
   font-weight: bold;
-  color: var(--primary-color) !important;
+  font-size: 1.5rem;
 }
 
+.navbar-nav .nav-link {
+  margin-right: 15px;
+  font-size: 1rem;
+}
+
+/* Hero Section */
 .hero-section {
-  min-height: 80vh;
-  position: relative;
+  background: url("hero.jpg") no-repeat center center/cover;
+  height: 60vh;
   color: white;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.7);
 }
 
-@media (max-width: 276px) {
-  .hero-title {
-    font-size: 1.8rem; /* Atur ukuran font untuk judul */
-    line-height: 1.2; /* Tambahkan jarak antar baris */
-  }
-
-  #typing-text {
-    font-size: 1.8rem;
-    white-space: nowrap;
-    overflow: hidden;
-    display: inline-block;
-    border-right: 2px solid #fff;
-    box-sizing: border-box;
-    font-weight: 400;
-    line-height: 1.2; /* Tambahkan jarak antar baris */
-    word-wrap: break-word; /* Pastikan teks tidak melebihi batas */
-  }
-  .typing-text {
-    font-size: 1rem; /* Atur ukuran font untuk teks deskripsi */
-  }
-}
-
-@keyframes typing {
-  from {
-    width: 0;
-  }
-  to {
-    width: 100%;
-  }
-}
-
-@keyframes blink-caret {
-  from,
-  to {
-    border-color: transparent;
-  }
-  50% {
-    border-color: white;
-  }
-}
-
-.carousel {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-.carousel-inner,
-.carousel-item {
-  height: 100%;
-}
-
-.carousel-item {
-  background-position: center;
-  background-size: cover;
-}
-
-.carousel-item::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: rgba(0, 0, 0, 0.6);
-}
-
-.hero-content {
-  position: relative;
-  z-index: 2;
-  padding: 2rem;
-}
-
-.hero-content {
-  padding: 2rem;
-}
-
-.hero-title {
-  font-size: 4.5rem;
-  font-weight: bold;
+.hero-section h1 {
+  font-size: 2.5rem;
   margin-bottom: 1rem;
 }
 
-.cta-button {
-  background-color: var(--primary-color);
-  color: white;
-  padding: 0.8rem 2rem;
+.hero-section p {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.hero-section .btn {
+  font-size: 1rem;
+  padding: 0.7rem 1.5rem;
+}
+
+/* Info Section */
+.info-card {
+  background: #f9f9f9;
   border: none;
   border-radius: 5px;
-  font-weight: bold;
-  transition: all 0.3s ease;
-}
-
-.cta-button:hover {
-  background-color: #8b0000;
-  transform: translateY(-2px);
-}
-
-.info-card {
-  border: none;
-  border-radius: 10px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  transition: transform 0.3s ease;
-  height: 100%;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .info-card:hover {
   transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
 }
 
-.about-section {
-  background-color: #f8f9fa;
-  padding: 5rem 0;
+.info-card h5 {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
 }
 
-.profile-image {
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+.info-card a {
+  text-decoration: none;
+  color: #a20000;
 }
 
+/* Tentang Tokoh Section */
+.tokoh-info {
+  background: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 2rem;
+}
+
+.tokoh-info h3 {
+  font-size: 1.8rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Footer */
 footer {
-  background-color: var(--primary-color);
+  background: #a20000;
   color: white;
-  padding: 3rem 0;
 }
 
-.social-links a {
+footer h5 {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+footer p {
+  font-size: 0.9rem;
+}
+
+footer a {
+  text-decoration: none;
   color: white;
-  margin: 0 10px;
-  font-size: 1.5rem;
-  transition: opacity 0.3s ease;
+  transition: color 0.3s;
 }
 
-.social-links a:hover {
-  opacity: 0.8;
-}
-
-@media (max-width: 768px) {
-  .hero-title {
-    font-size: 2.5rem;
-  }
-}
-
-.bgg {
-  background-color: #b71c1c;
-}
-
-.text-item {
-  color: black;
-  /* Change this to your desired color */
-}
-
-.btn-outline {
-  background-color: transparent;
-  color: var(--primary-color);
-  border: 2px solid var(--primary-color);
-}
-
-.btn-outline:hover {
-  background-color: var(--primary-color);
-  color: white;
+footer a:hover {
+  color: #ffc107;
 }
