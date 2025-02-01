@@ -52,6 +52,11 @@ body {
   background-color: #9a031e;
 }
 
+.text-medok {
+  color: #a20000;
+  font-weight: 500;
+}
+
 .dropdown-menu.fade {
   opacity: 0;
   transform: translateY(-10px);
@@ -189,6 +194,10 @@ h5 {
   color: #fff;
   border-radius: 5px;
   padding: 2rem;
+}
+
+a {
+  text-decoration: none;
 }
 
 .tokoh-info h3 {
