@@ -1,0 +1,1045 @@
+[
+  {
+    "title": "Beasiswa Fulbright",
+    "description": "Beasiswa Fulbright adalah program yang menawarkan kesempatan bagi warga negara Indonesia untuk melanjutkan studi pascasarjana (S2 dan S3) di berbagai universitas di Amerika Serikat. Program ini mencakup berbagai bidang studi, kecuali bidang kedokteran yang berhubungan langsung dengan perawatan pasien atau kontak klinis.",
+    "university": "Beragam universitas di Amerika Serikat",
+    "major": "Semua bidang kecuali kedokteran yang berhubungan dengan perawatan pasien atau kontak klinis dengan pasien",
+    "registration": "Musim semi 2025 - 15 Maret 2025",
+    "level": "S2, S3",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Tidak disebutkan batasan usia spesifik",
+      "gpa": "Minimal 3.0 pada skala 4.0",
+      "englishTest": "TOEFL ITP minimal 550, TOEFL iBT minimal 80, atau IELTS minimal 6.5",
+      "documents": [
+        "Ijazah dan transkrip akademik terakhir",
+        "skor TOEFL/IELTS yang valid",
+        "tiga surat rekomendasi",
+        "dan formulir aplikasi yang telah diisi"
+      ]
+    },
+    "benefit": "Biaya pendidikan, tunjangan hidup, tiket pesawat PP Indonesia-AS, asuransi kesehatan, dan berbagai dukungan lainnya",
+    "reference": "https://www.aminef.or.id/grants-for-indonesians/fulbright-programs/scholarship/"
+  },
+  {
+    "title": "Chevening Scholarship 2025",
+    "description": "Beasiswa dari pemerintah Inggris untuk mahasiswa internasional",
+    "university": "Various Universities in the UK",
+    "major": "All Fields",
+    "registration": "Mar 2024 - May 2024",
+    "level": "Master",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Not specified",
+      "gpa": "Minimum 3.5 out of 4.00",
+      "englishTest": "IELTS, TOEFL",
+      "documents": [
+        "Personal Statement",
+        "Curriculum Vitae",
+        "Academic Transcript",
+        "Recommendation Letters"
+      ]
+    },
+    "benefit": "Tuition Support, Living Allowance, Travel Costs",
+    "reference": "https://www.chevening.org/"
+  },
+  {
+    "title": "Erasmus Mundus Scholarship 2025",
+    "description": "Beasiswa untuk studi di Eropa dengan pengalaman belajar di beberapa negara",
+    "university": "Multiple European Universities",
+    "major": "Various Programs",
+    "registration": "TBA - TBA",
+    "level": "Master, PhD",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Not specified",
+      "gpa": "Minimum 3.2 out of 4.00",
+      "englishTest": "IELTS, TOEFL",
+      "documents": [
+        "Curriculum Vitae",
+        "Academic Transcript",
+        "Motivation Letter",
+        "Recommendation Letters"
+      ]
+    },
+    "benefit": "Tuition Support, Living Allowance, Travel Costs",
+    "reference": "https://ec.europa.eu/programmes/erasmus-plus/"
+  },
+  {
+    "title": "DAAD Scholarship 2025",
+    "description": "Beasiswa dari pemerintah Jerman untuk mahasiswa internasional",
+    "university": "Various Universities in Germany",
+    "major": "All Fields",
+    "registration": "TBA - TBA",
+    "level": "Master, PhD",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Not specified",
+      "gpa": "Minimum 3.3 out of 4.00",
+      "englishTest": "IELTS, TOEFL",
+      "documents": [
+        "Motivation Letter",
+        "Curriculum Vitae",
+        "Academic Transcript",
+        "Recommendation Letters"
+      ]
+    },
+    "benefit": "Tuition Support, Living Allowance, Health Insurance",
+    "reference": "https://www.daad.de/en/"
+  },
+  {
+    "title": "LPDP Scholarship 2025",
+    "description": "Beasiswa dari pemerintah Indonesia untuk mahasiswa berprestasi",
+    "university": "Top Universities Worldwide",
+    "major": "All Fields",
+    "registration": "TBA - TBA",
+    "level": "Master, PhD",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Not specified",
+      "gpa": "Minimum 3.5 out of 4.00",
+      "englishTest": "IELTS, TOEFL",
+      "documents": [
+        "Curriculum Vitae",
+        "Personal Statement",
+        "Recommendation Letters"
+      ]
+    },
+    "benefit": "Tuition Support, Living Allowance, Research Funding",
+    "reference": "https://lpdp.kemenkeu.go.id/"
+  },
+  {
+    "title": "Australia Awards Scholarship 2025",
+    "description": "Beasiswa dari pemerintah Australia untuk mahasiswa dari negara berkembang",
+    "university": "Top Universities in Australia",
+    "major": "Various Programs",
+    "registration": "TBA - TBA",
+    "level": "Master, PhD",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Not specified",
+      "gpa": "Minimum 3.3 out of 4.00",
+      "englishTest": "IELTS, TOEFL",
+      "documents": [
+        "Motivation Letter",
+        "Academic Transcript",
+        "Recommendation Letters"
+      ]
+    },
+    "benefit": "Tuition Support, Living Allowance, Health Insurance",
+    "reference": "https://www.dfat.gov.au/people-to-people/australia-awards"
+  },
+  {
+    "title": "Gates Cambridge Scholarship 2025",
+    "description": "Beasiswa penuh untuk studi di University of Cambridge",
+    "university": "University of Cambridge",
+    "major": "All Fields",
+    "registration": "TBA - TBA",
+    "level": "Master, PhD",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Not specified",
+      "gpa": "Minimum 3.8 out of 4.00",
+      "englishTest": "IELTS, TOEFL",
+      "documents": [
+        "Curriculum Vitae",
+        "Personal Statement",
+        "Academic Transcript"
+      ]
+    },
+    "benefit": "Tuition Support, Living Allowance, Research Funding",
+    "reference": "https://www.gatescambridge.org/"
+  },
+  {
+    "title": "Knight-Hennessy Scholarship 2025",
+    "description": "Beasiswa penuh untuk studi di Stanford University",
+    "university": "Stanford University",
+    "major": "All Fields",
+    "registration": "Apr 2024 - May 2024",
+    "level": "Master, PhD",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Not specified",
+      "gpa": "Minimum 3.7 out of 4.00",
+      "englishTest": "IELTS, TOEFL",
+      "documents": [
+        "Curriculum Vitae",
+        "Personal Statement",
+        "Leadership Experience"
+      ]
+    },
+    "benefit": "Tuition Support, Living Allowance, Leadership Training",
+    "reference": "https://knight-hennessy.stanford.edu/"
+  },
+  {
+    "title": "Fulbright Foreign Student Program 2025",
+    "description": "Beasiswa dari pemerintah AS untuk mahasiswa internasional",
+    "university": "Various Universities in the USA",
+    "major": "All Fields",
+    "registration": "Aug 2024 - Nov 2024",
+    "level": "Master, PhD",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Not specified",
+      "gpa": "Minimum 3.5 out of 4.00",
+      "englishTest": "IELTS, TOEFL",
+      "documents": [
+        "Personal Statement",
+        "Academic Transcript",
+        "Recommendation Letters"
+      ]
+    },
+    "benefit": "Tuition Support, Living Allowance, Research Funding",
+    "reference": "https://foreign.fulbrightonline.org/"
+  },
+  {
+    "title": "Swiss Government Excellence Scholarship 2025",
+    "description": "Beasiswa dari pemerintah Swiss untuk studi di berbagai universitas",
+    "university": "Various Universities in Switzerland",
+    "major": "All Fields",
+    "registration": "Oct 2024 - Jan 2025",
+    "level": "Master, PhD",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Not specified",
+      "gpa": "Minimum 3.5 out of 4.00",
+      "englishTest": "IELTS, TOEFL",
+      "documents": [
+        "Research Proposal",
+        "Academic Transcript",
+        "Recommendation Letters"
+      ]
+    },
+    "benefit": "Tuition Support, Living Allowance, Research Funding",
+    "reference": "https://www.sbfi.admin.ch/scholarships_en"
+  },
+  {
+    "title": "Beasiswa Unggulan Kemendikbud",
+    "description": "Program beasiswa yang diselenggarakan oleh Kementerian Pendidikan dan Kebudayaan Republik Indonesia untuk jenjang S1, S2, dan S3.",
+    "university": "Berbagai Universitas di Indonesia",
+    "major": "Semua Bidang",
+    "registration": "Aug 2024 - Oct 2024",
+    "level": "S1, S2, S3",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Maksimum 30 tahun",
+      "gpa": "Minimal 3.25 pada skala 4.00",
+      "englishTest": "Sertifikat TOEFL/IELTS dengan skor minimal yang ditentukan",
+      "documents": [
+        "CV",
+        "Transkrip Akademik",
+        "Surat Rekomendasi",
+        "Proposal Studi"
+      ]
+    },
+    "benefit": "Uang Kuliah, Tunjangan Hidup, Buku, Riset",
+    "reference": "https://beasiswaunggulan.kemdikbud.go.id/"
+  },
+  {
+    "title": "Beasiswa Djarum Plus",
+    "description": "Beasiswa dari Djarum Foundation bagi mahasiswa berprestasi",
+    "university": "Berbagai Universitas di Indonesia",
+    "major": "Semua Bidang",
+    "registration": "TBA - TBA",
+    "level": "S1",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Maksimum 25 tahun",
+      "gpa": "Minimum 3.2 out of 4.00",
+      "englishTest": "Tidak diperlukan",
+      "documents": [
+        "Transkrip Akademik",
+        "Surat Rekomendasi",
+        "Essay"
+      ]
+    },
+    "benefit": "Tunjangan Pendidikan, Pelatihan Kepemimpinan",
+    "reference": "https://djarumplus.org/"
+  },
+  {
+    "title": "Beasiswa Bank Indonesia",
+    "description": "Beasiswa bagi mahasiswa berprestasi dari Bank Indonesia",
+    "university": "Berbagai Universitas di Indonesia",
+    "major": "Ekonomi, Keuangan, Perbankan, Teknologi",
+    "registration": "Feb 2024 - Apr 2024",
+    "level": "S1",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Maksimum 23 tahun",
+      "gpa": "Minimum 3.25 out of 4.00",
+      "englishTest": "Tidak diperlukan",
+      "documents": [
+        "CV",
+        "Transkrip Akademik",
+        "Surat Rekomendasi",
+        "Essay"
+      ]
+    },
+    "benefit": "Tunjangan Pendidikan, Pengembangan Diri",
+    "reference": "https://www.bi.go.id/"
+  },
+  {
+    "title": "Beasiswa Tanoto Foundation",
+    "description": "Beasiswa bagi mahasiswa berprestasi dengan program kepemimpinan",
+    "university": "Universitas Mitra Tanoto Foundation",
+    "major": "Semua Bidang",
+    "registration": "Sep 2024 - Dec 2024",
+    "level": "S1",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Maksimum 25 tahun",
+      "gpa": "Minimum 3.3 out of 4.00",
+      "englishTest": "Tidak diperlukan",
+      "documents": [
+        "Transkrip Akademik",
+        "Surat Rekomendasi",
+        "Essay"
+      ]
+    },
+    "benefit": "Uang Kuliah, Pelatihan Kepemimpinan",
+    "reference": "https://www.tanotofoundation.org/"
+  },
+  {
+    "title": "Beasiswa Sampoerna Foundation",
+    "description": "Beasiswa bagi mahasiswa berprestasi dari Sampoerna Foundation",
+    "university": "Universitas Mitra Sampoerna",
+    "major": "Semua Bidang",
+    "registration": "Apr 2024 - Oct 2024",
+    "level": "S1",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Maksimum 24 tahun",
+      "gpa": "Minimum 3.5 out of 4.00",
+      "englishTest": "TOEFL, IELTS",
+      "documents": [
+        "Transkrip Akademik",
+        "Surat Rekomendasi",
+        "CV"
+      ]
+    },
+    "benefit": "Uang Kuliah, Tunjangan Hidup",
+    "reference": "https://www.sampoernafoundation.org/"
+  },
+  {
+    "title": "Beasiswa BAZNAS",
+    "description": "Beasiswa bagi mahasiswa kurang mampu dan berprestasi dari BAZNAS",
+    "university": "Berbagai Universitas di Indonesia",
+    "major": "Semua Bidang",
+    "registration": "Varies - Varies",
+    "level": "S1, S2",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Maksimum 30 tahun",
+      "gpa": "Minimum 3.0 out of 4.00",
+      "englishTest": "Tidak diperlukan",
+      "documents": [
+        "Surat Keterangan Tidak Mampu",
+        "Transkrip Akademik",
+        "Surat Rekomendasi"
+      ]
+    },
+    "benefit": "Uang Kuliah, Biaya Hidup",
+    "reference": "https://baznas.go.id/"
+  },
+  {
+    "title": "Beasiswa Pertamina Sobat Bumi",
+    "description": "Beasiswa bagi mahasiswa peduli lingkungan dari Pertamina Foundation",
+    "university": "Universitas Mitra Pertamina",
+    "major": "Teknik, Sains, Ekonomi",
+    "registration": "Aug 2024 - Dec 2024",
+    "level": "S1",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Maksimum 24 tahun",
+      "gpa": "Minimum 3.3 out of 4.00",
+      "englishTest": "Tidak diperlukan",
+      "documents": [
+        "Transkrip Akademik",
+        "Proposal Lingkungan"
+      ]
+    },
+    "benefit": "Uang Kuliah, Pengembangan Diri",
+    "reference": "https://www.pertaminafoundation.org/"
+  },
+  {
+    "title": "Beasiswa KSE (Karya Salemba Empat)",
+    "description": "Beasiswa bagi mahasiswa dengan latar belakang ekonomi kurang mampu",
+    "university": "Berbagai Universitas di Indonesia",
+    "major": "Semua Bidang",
+    "registration": "TBA - TBA",
+    "level": "S1",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Maksimum 23 tahun",
+      "gpa": "Minimum 3.2 out of 4.00",
+      "englishTest": "Tidak diperlukan",
+      "documents": [
+        "Surat Keterangan Tidak Mampu",
+        "Transkrip Akademik",
+        "CV"
+      ]
+    },
+    "benefit": "Tunjangan Pendidikan, Pelatihan Soft Skills",
+    "reference": "https://kse.or.id/"
+  },
+  {
+    "title": "Beasiswa Pendidikan Indonesia (BPI)",
+    "description": "Beasiswa bagi mahasiswa S2 dan S3 untuk mendukung program pendidikan nasional.",
+    "university": "Universitas Indonesia",
+    "major": "Semua Bidang",
+    "registration": "TBA - TBA",
+    "level": "S2, S3",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Tidak disebutkan",
+      "gpa": "Minimum 3.25 dari 4.00",
+      "englishTest": "Tidak disebutkan",
+      "documents": [
+        "Transkrip Akademik",
+        "Surat Rekomendasi",
+        "Proposal Studi"
+      ]
+    },
+    "benefit": "Biaya Pendidikan, Tunjangan Hidup, Riset",
+    "reference": "https://beasiswaunggulan.kemdikbud.go.id/"
+  },
+  {
+    "title": "Beasiswa Sarjana Unggulan UGM",
+    "description": "Beasiswa UGM untuk mahasiswa berprestasi.",
+    "university": "Universitas Gadjah Mada",
+    "major": "Semua Bidang",
+    "registration": "TBA - TBA",
+    "level": "S1",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Maksimum 21 tahun",
+      "gpa": "Minimum 3.50 dari 4.00",
+      "englishTest": "Tidak disebutkan",
+      "documents": [
+        "Transkrip Akademik",
+        "Surat Rekomendasi",
+        "Esai Motivasi"
+      ]
+    },
+    "benefit": "Biaya Pendidikan, Tunjangan Hidup",
+    "reference": "https://ugm.ac.id/"
+  },
+  {
+    "title": "KAIST University Scholarship",
+    "description": "Beasiswa magister bagi mahasiswa internasional di KAIST.",
+    "university": "KAIST, Korea Selatan",
+    "major": "Semua Bidang",
+    "registration": "7 Jan 2025 - TBA",
+    "level": "S2",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Tidak disebutkan",
+      "gpa": "Minimum 3.50 dari 4.00",
+      "englishTest": "TOEFL iBT 83 / IELTS 6.5",
+      "documents": [
+        "Transkrip Akademik",
+        "Surat Rekomendasi",
+        "Esai Pribadi"
+      ]
+    },
+    "benefit": "Biaya Pendidikan, Tunjangan Hidup, Asuransi Kesehatan",
+    "reference": "https://kaist.ac.kr/"
+  },
+  {
+    "title": "Beasiswa Master by Research Telkom University",
+    "description": "Beasiswa magister berbasis riset untuk mendukung inovasi teknologi.",
+    "university": "Telkom University",
+    "major": "Teknologi, Bisnis",
+    "registration": "Feb 2025 - Apr 2025",
+    "level": "S2",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Maksimum 30 tahun",
+      "gpa": "Minimum 3.30 dari 4.00",
+      "englishTest": "TOEFL, IELTS",
+      "documents": [
+        "Transkrip Akademik",
+        "Proposal Riset",
+        "CV"
+      ]
+    },
+    "benefit": "Biaya Pendidikan, Dukungan Riset",
+    "reference": "https://telkomuniversity.ac.id/"
+  },
+  {
+    "title": "Beasiswa Monbukagakusho (MEXT)",
+    "description": "Beasiswa dari pemerintah Jepang untuk studi di Jepang.",
+    "university": "Universitas Jepang",
+    "major": "Semua Bidang",
+    "registration": "Apr 2024 - Mei 2024",
+    "level": "S1, S2, S3",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Tidak disebutkan",
+      "gpa": "Minimum 3.50 dari 4.00",
+      "englishTest": "TOEFL, IELTS, JLPT",
+      "documents": [
+        "Transkrip Akademik",
+        "Surat Rekomendasi",
+        "Esai"
+      ]
+    },
+    "benefit": "Biaya Pendidikan, Tunjangan Hidup, Tiket Pesawat",
+    "reference": "https://www.studyinjapan.go.jp/en/"
+  },
+  {
+    "title": "Beasiswa Korea Global Scholarship (GKS)",
+    "description": "Beasiswa pemerintah Korea bagi mahasiswa internasional.",
+    "university": "Universitas Korea Selatan",
+    "major": "Semua Bidang",
+    "registration": "Mar 2024 - Mei 2024",
+    "level": "S1, S2, S3",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Tidak disebutkan",
+      "gpa": "Minimum 3.50 dari 4.00",
+      "englishTest": "TOPIK, TOEFL, IELTS",
+      "documents": [
+        "Transkrip Akademik",
+        "Surat Rekomendasi",
+        "Statement of Purpose"
+      ]
+    },
+    "benefit": "Biaya Pendidikan, Tunjangan Hidup, Tiket Pesawat",
+    "reference": "https://www.studyinkorea.go.kr/"
+  },
+  {
+    "title": "Beasiswa DAAD EPOS",
+    "description": "Beasiswa studi di Jerman untuk bidang pembangunan berkelanjutan.",
+    "university": "Universitas Jerman",
+    "major": "Teknik, Sains, Ekonomi",
+    "registration": "Aug 2024 - Okt 2024",
+    "level": "S2, S3",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Tidak disebutkan",
+      "gpa": "Minimum 3.50 dari 4.00",
+      "englishTest": "TOEFL, IELTS",
+      "documents": [
+        "Transkrip Akademik",
+        "Proposal Riset",
+        "Surat Rekomendasi"
+      ]
+    },
+    "benefit": "Biaya Pendidikan, Tunjangan Hidup, Asuransi Kesehatan",
+    "reference": "https://www.daad.de/"
+  },
+  {
+    "title": "Beasiswa Turkiye Burslari",
+    "description": "Beasiswa dari pemerintah Turki untuk mahasiswa internasional.",
+    "university": "Universitas Turki",
+    "major": "Semua Bidang",
+    "registration": "Jan 2025 - Feb 2025",
+    "level": "S1, S2, S3",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Tidak disebutkan",
+      "gpa": "Minimum 3.00 dari 4.00",
+      "englishTest": "TOEFL, IELTS, YOS",
+      "documents": [
+        "Transkrip Akademik",
+        "Surat Rekomendasi",
+        "Motivation Letter"
+      ]
+    },
+    "benefit": "Biaya Pendidikan, Tunjangan Hidup, Tiket Pesawat",
+    "reference": "https://www.turkiyeburslari.gov.tr/"
+  },
+  {
+    "title": "Beasiswa VDMI (Van Deventer-Maas Indonesia)",
+    "description": "Beasiswa bagi mahasiswa berprestasi dari keluarga kurang mampu.",
+    "university": "Perguruan Tinggi Mitra VDMI",
+    "major": "Semua Jurusan",
+    "registration": "Februari 2025 - TBA",
+    "level": "D3, D4, S1",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Maksimum 27 tahun",
+      "gpa": "Minimum 3.00",
+      "englishTest": "Tidak disebutkan",
+      "documents": [
+        "Transkrip Akademik",
+        "Surat Keterangan Tidak Mampu",
+        "Surat Rekomendasi"
+      ]
+    },
+    "benefit": "Uang Saku Bulanan, Pelatihan Pengembangan Diri",
+    "reference": "https://timesindonesia.co.id/"
+  },
+  {
+    "title": "Beasiswa Pertamina Sobat Bumi",
+    "description": "Beasiswa pendidikan dari Pertamina Foundation.",
+    "university": "42 Perguruan Tinggi Mitra",
+    "major": "Semua Jurusan",
+    "registration": "4 Feb 2025 - 4 Mar 2025",
+    "level": "S1, Vokasi",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Tidak disebutkan",
+      "gpa": "Minimum 3.00",
+      "englishTest": "Tidak disebutkan",
+      "documents": [
+        "Transkrip Akademik",
+        "Esai Motivasi",
+        "Surat Rekomendasi"
+      ]
+    },
+    "benefit": "Biaya Pendidikan, Tunjangan Hidup",
+    "reference": "https://www.pertaminafoundation.org/"
+  },
+  {
+    "title": "Beasiswa Bank Indonesia",
+    "description": "Beasiswa bagi mahasiswa berprestasi di bidang ekonomi dan keuangan.",
+    "university": "Perguruan Tinggi Mitra Bank Indonesia",
+    "major": "Ekonomi, Keuangan",
+    "registration": "TBA - TBA",
+    "level": "S1",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Maksimum 23 tahun",
+      "gpa": "Minimum 3.00",
+      "englishTest": "Tidak disebutkan",
+      "documents": [
+        "Transkrip Akademik",
+        "Surat Rekomendasi",
+        "Esai Motivasi"
+      ]
+    },
+    "benefit": "Uang Saku Bulanan, Pelatihan dan Seminar",
+    "reference": "https://www.bi.go.id/"
+  },
+  {
+    "title": "Beasiswa DataPrint",
+    "description": "Beasiswa yang diberikan oleh DataPrint untuk pelajar dan mahasiswa di Indonesia.",
+    "university": "Semua Universitas di Indonesia",
+    "major": "Semua Jurusan",
+    "registration": "Februari 2025 - April 2025",
+    "level": "SMA, S1, D3",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Tidak disebutkan",
+      "gpa": "Tidak disebutkan",
+      "englishTest": "Tidak diperlukan",
+      "documents": [
+        "Transkrip Akademik",
+        "Esai 500 Kata"
+      ]
+    },
+    "benefit": "Dana Beasiswa",
+    "reference": "https://www.dataprint.co.id/"
+  },
+  {
+    "title": "Beasiswa Mizan",
+    "description": "Beasiswa yang diberikan oleh Mizan untuk mendukung penelitian dan penulisan karya ilmiah.",
+    "university": "Universitas di Indonesia",
+    "major": "Studi Islam",
+    "registration": "TBA - TBA",
+    "level": "S1, S2, S3",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Tidak disebutkan",
+      "gpa": "Tidak disebutkan",
+      "englishTest": "Tidak diperlukan",
+      "documents": [
+        "Proposal Penelitian",
+        "Transkrip Akademik",
+        "Surat Rekomendasi"
+      ]
+    },
+    "benefit": "Dana Penelitian",
+    "reference": "https://mizan.com/"
+  },
+  {
+    "title": "Beasiswa KIP Kuliah",
+    "description": "Beasiswa dari pemerintah untuk mahasiswa kurang mampu.",
+    "university": "Perguruan Tinggi Negeri & Swasta",
+    "major": "Semua Jurusan",
+    "registration": "April 2025 - Juni 2025",
+    "level": "S1",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Tidak disebutkan",
+      "gpa": "Minimal 3.00",
+      "englishTest": "Tidak diperlukan",
+      "documents": [
+        "Surat Keterangan Tidak Mampu",
+        "Transkrip Akademik"
+      ]
+    },
+    "benefit": "Biaya Pendidikan, Uang Saku",
+    "reference": "https://kip-kuliah.kemdikbud.go.id/"
+  },
+  {
+    "title": "Beasiswa BCA",
+    "description": "Beasiswa untuk mahasiswa yang ingin berkarier di BCA.",
+    "university": "BCA Learning Institute",
+    "major": "Manajemen, Keuangan, IT",
+    "registration": "Februari 2025 - Maret 2025",
+    "level": "D1, S1",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Maksimum 25 tahun",
+      "gpa": "Minimal 3.00",
+      "englishTest": "TOEFL 500",
+      "documents": [
+        "Transkrip Akademik",
+        "Surat Rekomendasi"
+      ]
+    },
+    "benefit": "Biaya Pendidikan, Pelatihan Kepemimpinan",
+    "reference": "https://karir.bca.co.id/beasiswa"
+  },
+  {
+    "title": "Beasiswa Astra",
+    "description": "Beasiswa yang diberikan oleh PT Astra International Tbk untuk mahasiswa berprestasi.",
+    "university": "Perguruan Tinggi Negeri Mitra Astra",
+    "major": "Teknik, Sains, Ekonomi",
+    "registration": "TBA - TBA",
+    "level": "S1",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Maksimum 23 tahun",
+      "gpa": "Minimal 3.00 pada skala 4.00",
+      "englishTest": "Tidak disebutkan",
+      "documents": [
+        "Transkrip Akademik",
+        "Surat Rekomendasi"
+      ]
+    },
+    "benefit": "Biaya Pendidikan, Pelatihan Kepemimpinan",
+    "reference": "https://www.astra.co.id/"
+  },
+  {
+    "title": "Beasiswa Sampoerna Foundation",
+    "description": "Beasiswa bagi mahasiswa berprestasi dari Sampoerna Foundation.",
+    "university": "Perguruan Tinggi Mitra Sampoerna",
+    "major": "Semua Jurusan",
+    "registration": "TBA - TBA",
+    "level": "S1",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Maksimum 25 tahun",
+      "gpa": "Minimal 3.50",
+      "englishTest": "IELTS 6.5",
+      "documents": [
+        "Transkrip Akademik",
+        "Surat Rekomendasi",
+        "Esai"
+      ]
+    },
+    "benefit": "Biaya Pendidikan, Tunjangan Hidup",
+    "reference": "https://www.sampoernafoundation.org/"
+  },
+  {
+    "title": "Beasiswa BAZNAS",
+    "description": "Beasiswa bagi mahasiswa kurang mampu dan berprestasi.",
+    "university": "Perguruan Tinggi Mitra BAZNAS",
+    "major": "Semua Jurusan",
+    "registration": "TBA - TBA",
+    "level": "S1, S2",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Maksimum 30 tahun",
+      "gpa": "Minimal 3.00",
+      "englishTest": "Tidak diperlukan",
+      "documents": [
+        "Surat Keterangan Tidak Mampu",
+        "Transkrip Akademik"
+      ]
+    },
+    "benefit": "Biaya Pendidikan, Uang Saku",
+    "reference": "https://baznas.go.id/"
+  },
+  {
+    "title": "Beasiswa Tanri Abeng University",
+    "description": "Beasiswa bagi mahasiswa yang ingin menempuh studi S1 di Tanri Abeng University.",
+    "university": "Tanri Abeng University",
+    "major": "Manajemen, Bisnis",
+    "registration": "Feb 2025 - April 2025",
+    "level": "S1",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Maksimum 23 tahun",
+      "gpa": "Minimal 3.50",
+      "englishTest": "Tidak disebutkan",
+      "documents": [
+        "Transkrip Akademik",
+        "Surat Rekomendasi"
+      ]
+    },
+    "benefit": "Biaya Pendidikan, Tunjangan Hidup",
+    "reference": "https://tanriabenguniversity.ac.id/"
+  },
+  {
+    "title": "Beasiswa BNI",
+    "description": "Beasiswa bagi mahasiswa berprestasi dari keluarga kurang mampu.",
+    "university": "Universitas Mitra BNI",
+    "major": "Semua Jurusan",
+    "registration": "TBA - TBA",
+    "level": "S1",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Maksimum 25 tahun",
+      "gpa": "Minimal 3.30",
+      "englishTest": "Tidak disebutkan",
+      "documents": [
+        "Transkrip Akademik",
+        "Surat Rekomendasi"
+      ]
+    },
+    "benefit": "Biaya Pendidikan, Tunjangan Hidup",
+    "reference": "https://bni.co.id/"
+  },
+  {
+    "title": "Beasiswa CIMB ASEAN",
+    "description": "Beasiswa CIMB Group untuk mahasiswa ASEAN di berbagai universitas ternama.",
+    "university": "Top Universities in ASEAN",
+    "major": "Ekonomi, Manajemen, Keuangan",
+    "registration": "Mar 2025 - Mei 2025",
+    "level": "S1",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Maksimum 23 tahun",
+      "gpa": "Minimal 3.50",
+      "englishTest": "IELTS 6.5",
+      "documents": [
+        "Transkrip Akademik",
+        "Surat Rekomendasi",
+        "Esai"
+      ]
+    },
+    "benefit": "Biaya Pendidikan, Tunjangan Hidup, Internship",
+    "reference": "https://www.cimb.com/"
+  },
+  {
+    "title": "Beasiswa Telkom University",
+    "description": "Beasiswa bagi mahasiswa berprestasi di Telkom University.",
+    "university": "Telkom University",
+    "major": "Teknik, Manajemen, Desain",
+    "registration": "Feb 2025 - April 2025",
+    "level": "S1",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Maksimum 24 tahun",
+      "gpa": "Minimal 3.20",
+      "englishTest": "Tidak disebutkan",
+      "documents": [
+        "Transkrip Akademik",
+        "Surat Rekomendasi",
+        "Esai"
+      ]
+    },
+    "benefit": "Biaya Pendidikan",
+    "reference": "https://telkomuniversity.ac.id/"
+  },
+  {
+    "title": "Beasiswa Indofood Riset Nugraha",
+    "description": "Beasiswa riset bagi mahasiswa yang melakukan penelitian di bidang pangan.",
+    "university": "Universitas Mitra Indofood",
+    "major": "Ilmu Pangan, Bioteknologi",
+    "registration": "April 2025 - Juni 2025",
+    "level": "S1",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Maksimum 30 tahun",
+      "gpa": "Minimal 3.30",
+      "englishTest": "Tidak disebutkan",
+      "documents": [
+        "Proposal Riset",
+        "Transkrip Akademik"
+      ]
+    },
+    "benefit": "Dana Penelitian",
+    "reference": "https://indofood.com/"
+  },
+  {
+    "title": "Beasiswa Tokopedia",
+    "description": "Beasiswa bagi mahasiswa berprestasi untuk pengembangan startup dan teknologi.",
+    "university": "Universitas Mitra Tokopedia",
+    "major": "Teknik, Manajemen",
+    "registration": "TBA - TBA",
+    "level": "S1",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Maksimum 25 tahun",
+      "gpa": "Minimal 3.40",
+      "englishTest": "Tidak disebutkan",
+      "documents": [
+        "Transkrip Akademik",
+        "Surat Rekomendasi"
+      ]
+    },
+    "benefit": "Biaya Pendidikan, Magang",
+    "reference": "https://tokopedia.com/"
+  },
+  {
+    "title": "Beasiswa LPDP Santri",
+    "description": "Beasiswa dari LPDP khusus untuk santri yang ingin melanjutkan studi pascasarjana.",
+    "university": "Top Universities",
+    "major": "Semua Jurusan",
+    "registration": "TBA - TBA",
+    "level": "S2, S3",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Maksimum 35 tahun",
+      "gpa": "Minimal 3.40",
+      "englishTest": "TOEFL, IELTS",
+      "documents": [
+        "Transkrip Akademik",
+        "Surat Rekomendasi",
+        "Proposal Studi"
+      ]
+    },
+    "benefit": "Biaya Pendidikan, Tunjangan Hidup",
+    "reference": "https://lpdp.kemenkeu.go.id/"
+  },
+  {
+    "title": "Beasiswa Google Women Techmakers",
+    "description": "Beasiswa bagi perempuan yang ingin berkarir di dunia teknologi.",
+    "university": "Top Universities",
+    "major": "Teknik, IT",
+    "registration": "TBA - TBA",
+    "level": "S1, S2",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Maksimum 30 tahun",
+      "gpa": "Minimal 3.50",
+      "englishTest": "TOEFL, IELTS",
+      "documents": [
+        "Transkrip Akademik",
+        "Surat Rekomendasi",
+        "Statement of Purpose"
+      ]
+    },
+    "benefit": "Biaya Pendidikan, Pelatihan",
+    "reference": "https://developers.google.com/women-techmakers/"
+  },
+  {
+    "title": "Beasiswa Rumah Amal Salman ITB",
+    "description": "Beasiswa bagi mahasiswa ITB yang berasal dari keluarga kurang mampu.",
+    "university": "Institut Teknologi Bandung",
+    "major": "Semua Jurusan",
+    "registration": "TBA - TBA",
+    "level": "S1",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Maksimum 25 tahun",
+      "gpa": "Minimal 3.20",
+      "englishTest": "Tidak diperlukan",
+      "documents": [
+        "Surat Keterangan Tidak Mampu",
+        "Transkrip Akademik"
+      ]
+    },
+    "benefit": "Biaya Pendidikan, Uang Saku",
+    "reference": "https://www.salmanspirit.org/"
+  },
+  {
+    "title": "Beasiswa Kedaireka",
+    "description": "Beasiswa Kedaireka bagi mahasiswa yang terlibat dalam proyek inovasi.",
+    "university": "Perguruan Tinggi Mitra Kemendikbud",
+    "major": "Teknik, Sains, Manajemen",
+    "registration": "Feb 2025 - April 2025",
+    "level": "S1",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Maksimum 30 tahun",
+      "gpa": "Minimal 3.40",
+      "englishTest": "Tidak disebutkan",
+      "documents": [
+        "Proposal Inovasi",
+        "Transkrip Akademik",
+        "Surat Rekomendasi"
+      ]
+    },
+    "benefit": "Biaya Pendidikan, Dana Proyek",
+    "reference": "https://kedaireka.id/"
+  },
+  {
+    "title": "Beasiswa Pendidikan Indonesia (BPI) Kemendikbud",
+    "description": "Beasiswa dari Kemendikbud bagi mahasiswa S2 dan S3 untuk mendukung pendidikan nasional.",
+    "university": "Universitas Indonesia",
+    "major": "Semua Bidang",
+    "registration": "Feb 2025 - Apr 2025",
+    "level": "S2, S3",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Tidak disebutkan",
+      "gpa": "Minimum 3.25 dari 4.00",
+      "englishTest": "Tidak disebutkan",
+      "documents": [
+        "Transkrip Akademik",
+        "Surat Rekomendasi",
+        "Proposal Studi"
+      ]
+    },
+    "benefit": "Biaya Pendidikan, Tunjangan Hidup, Riset",
+    "reference": "https://beasiswaunggulan.kemdikbud.go.id/"
+  },
+  {
+    "title": "Beasiswa Tanoto Foundation",
+    "description": "Beasiswa bagi mahasiswa berprestasi dengan program kepemimpinan.",
+    "university": "Perguruan Tinggi Mitra Tanoto",
+    "major": "Semua Bidang",
+    "registration": "TBA - TBA",
+    "level": "S1",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Maksimum 25 tahun",
+      "gpa": "Minimum 3.3 dari 4.00",
+      "englishTest": "Tidak diperlukan",
+      "documents": [
+        "Transkrip Akademik",
+        "Surat Rekomendasi",
+        "Essay"
+      ]
+    },
+    "benefit": "Biaya Pendidikan, Pelatihan Kepemimpinan",
+    "reference": "https://www.tanotofoundation.org/"
+  },
+  {
+    "title": "Beasiswa S2 Universitas Airlangga",
+    "description": "Beasiswa parsial bagi mahasiswa magister untuk studi di UNAIR.",
+    "university": "Universitas Airlangga",
+    "major": "Semua Jurusan",
+    "registration": "Maret 2025 - Mei 2025",
+    "level": "S2",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Tidak disebutkan",
+      "gpa": "Minimum 3.50 dari 4.00",
+      "englishTest": "TOEFL 500",
+      "documents": [
+        "Transkrip Akademik",
+        "Surat Rekomendasi"
+      ]
+    },
+    "benefit": "Potongan Biaya Pendidikan",
+    "reference": "https://www.unair.ac.id/"
+  },
+  {
+    "title": "Beasiswa Kemenag LPDP",
+    "description": "Beasiswa untuk studi keagamaan di universitas dalam dan luar negeri.",
+    "university": "Universitas Mitra Kemenag",
+    "major": "Studi Keagamaan",
+    "registration": "Feb 2025 - Mei 2025",
+    "level": "S1, S2, S3",
+    "status": "Dibuka",
+    "requirement": {
+      "age": "Tidak disebutkan",
+      "gpa": "Minimum 3.50 dari 4.00",
+      "englishTest": "TOEFL 550 / IELTS 6.5",
+      "documents": [
+        "Transkrip Akademik",
+        "Proposal Penelitian"
+      ]
+    },
+    "benefit": "Biaya Pendidikan, Uang Saku, Biaya Penelitian",
+    "reference": "https://lpdp.kemenkeu.go.id/"
+  }
+]
