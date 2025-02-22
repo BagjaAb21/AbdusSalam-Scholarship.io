@@ -9,6 +9,42 @@ body {
   box-sizing: border-box;
 }
 
+/* Toggler button di pojok kanan atas */
+.navbar-toggler {
+  position: absolute;
+  top: 10px; /* Atur sesuai kebutuhan */
+  right: 10px; /* Tempatkan di pojok kanan */
+  z-index: 1050;
+  padding: 8px 10px;
+}
+
+/* Tombol Daftar */
+.btn-daftar {
+  background-color: #da4444;
+  color: white;
+  font-weight: 600;
+  padding: 12px 20px;
+  font-size: larger;
+  width: 100px;
+  border-radius: 8px;
+  text-align: center;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  text-decoration: none;
+}
+
+.btn-daftar:hover {
+  background-color: #9a031e;
+  transform: scale(1.05);
+}
+
+/* Responsif: Tombol daftar full width di bawah menu */
+@media (max-width: 991px) {
+  .btn-daftar {
+    width: 100%;
+    margin-top: 10px;
+  }
+}
+
 .dropdown {
   position: relative;
   display: inline-block;
@@ -163,6 +199,15 @@ h5 {
   font-size: 1rem;
   padding: 0.7rem 1.5rem;
 }
+
+/* image tentang program */
+@media (max-width: 991px) {
+  .img-ttg {
+    margin-bottom: 3rem;
+  }
+}
+
+/* end image tentang program */
 
 /* Info Section */
 .info-card {
