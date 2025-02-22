@@ -5,6 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Beasiswa Abdus Salam 2025</title>
+  <link rel="icon" href="../pictures/android-icon-144x144.png" type="image/x-icon">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
@@ -16,7 +17,7 @@
     <div class="container d-flex align-items-center position-relative">
       <!-- Logo -->
       <a class="navbar-brand d-flex align-items-center" href="#">
-        <img src="/pictures/Logo_Horizontal.png" alt="Logo" class="logo-img me-2">
+        <img src="../pictures/Logo_Horizontal.png" alt="Logo" class="logo-img me-2">
       </a>
 
       <!-- Toggler button (pojok kanan atas) -->
@@ -28,7 +29,7 @@
       <!-- Menu Navigasi -->
       <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
         <ul class="navbar-nav d-flex align-items-center w-100 justify-content-center">
-          <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="../index.html">Home</a></li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
               aria-expanded="false">Program</a>
@@ -55,17 +56,13 @@
     </div>
   </nav>
 
-
-
-
-
   <!-- Hero Section -->
   <section class="hero-section text-white text-center d-flex align-items-center justify-content-center mb-5"
     style="height: 70vh; position: relative;">
     <div id="heroCarousel" class="carousel slide w-100 h-100" data-bs-ride="carousel">
       <div class="carousel-inner h-100">
         <div class="carousel-item active h-100"
-          style="background: url('/pictures/hero-1.png') no-repeat center center/cover;">
+          style="background: url('../pictures/hero-1.png') no-repeat center center/cover;">
           <div
             class="container position-relative z-1 h-100 d-flex flex-column justify-content-center align-items-center"
             data-aos="fade-up">
@@ -76,7 +73,8 @@
           <div class="overlay position-absolute top-0 start-0 w-100 h-100"
             style="background-color: rgba(0, 0, 0, 0.5);"></div>
         </div>
-        <div class="carousel-item h-100" style="background: url('/pictures/hero-2.png') no-repeat center center/cover;">
+        <div class="carousel-item h-100"
+          style="background: url('../pictures/hero-2.png') no-repeat center center/cover;">
           <div
             class="container position-relative z-1 h-100 d-flex flex-column justify-content-center align-items-center"
             data-aos="fade-up">
@@ -99,93 +97,113 @@
     </div>
   </section>
 
-  <!-- Informasi Section -->
-  <section class="py-5">
+  <!-- Updated Body Section with Cards, Pagination, and Detailed Modal with Sections -->
+  <section class="info-section py-5">
     <div class="container">
-      <h2 class="text-center mb-5" data-aos="fade-down">Pusat Informasi Beasiswa Abdus Salam 2025</h2>
-      <div class="row">
-        <div class="col-md-4 tex-tentang-home">
-          <div class="info-card p-4 text-center card" data-aos="fade-right">
-            <h5>Program Reguler</h5>
-            <p style="text-align: start; font-size: 14px;">Program beasiswa jenjang sarjana (S1) untuk anggota Ahmadi
-              dari badan Khuddam,
-              dengan pendanaan biaya
-              kuliah, tunjangan buku, penelitian skripsi, dan biaya hidup selama maksimal 48 bulan.</p>
-            <a class="btn btn-danger btn-lg" style="color: white;" href="#">Selengkapnya</a>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="info-card p-4 text-center card" data-aos="zoom-in">
-            <h5>Program Bimbingan Belajar</h5>
-            <p style="text-align: start; font-size: 14px;">Program beasiswa untuk mendukung siswa SD, SMP, dan SMA dalam
-              mengikuti
-              bimbingan belajar berkualitas,
-              mencakup pendanaan biaya kursus dan buku penunjang selama satu semester.</p>
-            <a class="btn btn-danger btn-lg" href="#" style="color: white;">Selengkapnya</a>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="info-card p-4 text-center card" data-aos="fade-left">
-            <h5>Tentang Beasiswa</h5>
-            <p style="text-align: start; font-size: 14px;">Beasiswa yang mendukung pendidikan anggota Ahmadi melalui
-              skema Reguler untuk
-              jenjang sarjana (S1) dan
-              Bimbingan Belajar untuk siswa SD, SMP, dan SMA, guna meningkatkan prestasi akademik dan pengembangan diri.
-            </p>
-            <a class="btn btn-danger btn-lg" href="#" style="color: white;">Selengkapnya</a>
-          </div>
-        </div>
+      <h2 class="text-center mb-4">Daftar Beasiswa</h2>
+      <div class="row" id="scholarship-list">
+        <!-- Cards will be dynamically generated by JavaScript -->
       </div>
+
+      <!-- Pagination -->
+      <nav aria-label="Page navigation" class="mt-4">
+        <ul class="pagination justify-content-center" id="pagination"></ul>
+      </nav>
     </div>
   </section>
 
-  <!-- Tentang Tokoh Section -->
-  <section class="py-5 bg-light">
-    <div class="container">
-      <h2 class="text-center mb-5" data-aos="fade-down">Tentang Tokoh Abdus Salam</h2>
-      <div class="row align-items-center">
-        <div class="col-md-7" data-aos="fade-down">
-          <div class="tokoh-info p-4" data-aos="fade-down">
-            <h3 data-aos="fade-down">Prof. Abdus Salam</h3>
-            <p data-aos="fade-up" style="font-size: 16px; margin-bottom: 10px; text-align: justify;">
-              Prof. Abdus Salam (1926–1996) adalah seorang fisikawan teoretis asal Pakistan yang menjadi tokoh Muslim
-              pertama meraih Hadiah Nobel dalam Fisika pada tahun 1979 atas kontribusinya dalam teori penyatuan
-              lemah-elektromagnetik.
-            </p>
-            <p data-aos="fade-up" style="font-size: 16px; margin-bottom: 10px; text-align: justify;">
-              Sebagai seorang Ahmadi, Prof. Salam dikenal karena dedikasinya terhadap ilmu pengetahuan dan keimanannya.
-              Ia memperjuangkan pentingnya pendidikan, penelitian ilmiah, dan penggunaan ilmu untuk membawa manfaat bagi
-              umat manusia.</p>
-            <p data-aos="fade-up" style="font-size: 16px; margin-bottom: 10px; text-align: justify;">
-              Prof. Salam adalah simbol perjuangan untuk pendidikan, pengetahuan, dan keadilan ilmiah, meninggalkan
-              warisan luar biasa sebagai pelopor integrasi sains dalam kemajuan umat manusia.</p>
-            <p data-aos="fade-up" style="font-size: 16px; margin-bottom: 10px; text-align: justify;">
-              Selain prestasinya dalam penelitian, Prof. Salam juga dikenal sebagai pendukung kuat pengembangan sains di
-              negara-negara berkembang. Pada tahun 1964, ia mendirikan International Centre for Theoretical Physics
-              (ICTP) di Trieste, Italia, dengan tujuan memfasilitasi kolaborasi ilmiah antara ilmuwan dari negara maju
-              dan berkembang. Dedikasinya terhadap pendidikan dan penelitian ilmiah menjadikannya simbol perjuangan
-              untuk kemajuan sains di dunia Islam dan negara berkembang.</p>
-            <p data-aos="fade-up" style="font-size: 16px; margin-bottom: 10px; text-align: justify;">
-              Prof. Salam meninggal pada 21 November 1996 di Oxford, Inggris. Warisan ilmiahnya terus menginspirasi
-              generasi ilmuwan di seluruh dunia, dan kontribusinya dalam fisika teoretis tetap menjadi landasan penting
-              dalam pemahaman kita tentang alam semesta.</p>
-            <!-- <a href="#" class="btn btn-danger">Lebih Lanjut</a> -->
+  <!-- Modal for Detailed Information -->
+  <div class="modal fade" id="scholarshipModal" tabindex="-1" aria-labelledby="scholarshipModalLabel"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title fw-bold" id="scholarshipModalLabel">Detail Beasiswa</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="accordion" id="scholarshipDetailsAccordion">
+            <!-- About Section -->
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="aboutHeading">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#aboutSection"
+                  aria-expanded="true" aria-controls="aboutSection">
+                  About
+                </button>
+              </h2>
+              <div id="aboutSection" class="accordion-collapse collapse show" aria-labelledby="aboutHeading">
+                <div class="accordion-body">
+                  <p><strong>Description:</strong> <span id="modal-description"></span></p>
+                  <p><strong>University:</strong> <span id="modal-university"></span></p>
+                  <p><strong>Major:</strong> <span id="modal-major"></span></p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Requirement Section -->
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="requirementHeading">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#requirementSection" aria-expanded="false" aria-controls="requirementSection">
+                  Requirement
+                </button>
+              </h2>
+              <div id="requirementSection" class="accordion-collapse collapse" aria-labelledby="requirementHeading">
+                <div class="accordion-body">
+                  <p><strong>Age:</strong> <span id="modal-age"></span></p>
+                  <p><strong>GPA:</strong> <span id="modal-gpa"></span></p>
+                  <p><strong>English Test:</strong> <span id="modal-english-test"></span></p>
+                  <p><strong>Documents:</strong>
+                  <ul id="modal-documents"></ul>
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Benefit Section -->
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="benefitHeading">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#benefitSection" aria-expanded="false" aria-controls="benefitSection">
+                  Benefit
+                </button>
+              </h2>
+              <div id="benefitSection" class="accordion-collapse collapse" aria-labelledby="benefitHeading">
+                <div class="accordion-body">
+                  <p><strong>Funding:</strong> <span id="modal-funding"></span></p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Reference Section -->
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="referenceHeading">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#referenceSection" aria-expanded="false" aria-controls="referenceSection">
+                  Reference
+                </button>
+              </h2>
+              <div id="referenceSection" class="accordion-collapse collapse" aria-labelledby="referenceHeading">
+                <div class="accordion-body">
+                  <a href="#" id="modal-reference" target="_blank" class="btn btn-danger">Visit Official Link</a>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
-        <div class="col-md-5 text-center" data-aos="fade-left">
-          <img src="/pictures/Abdus_Salam.jpg" alt="Prof. Abdus Salam" class="img-fluid rounded"
-            style="max-width: 70%; height: auto;">
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
         </div>
       </div>
     </div>
-  </section>
+  </div>
 
   <!-- Footer -->
   <footer class="py-4">
     <div class="container mt-3">
       <div class="row">
         <div class="col-md-5" style="font-size: 14px;">
-          <img src="/pictures/logo white.png" style="margin: 0rem 1rem 1rem 1rem; width: 35vh; position: relative;"
+          <img src="../pictures/logo_white.png" style="margin: 0rem 1rem 1rem 1rem; width: 35vh; position: relative;"
             alt="Logo_beasiswa abdussalam">
           <p style="text-align: justify; margin: 0rem 1rem 0rem 1rem; font-size: 14px;">
             <b>Beasiswa Abdus Salam 2025 </b>adalah program beasiswa yang mendukung pendidikan anggota Ahmadi melalui
